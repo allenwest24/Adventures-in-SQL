@@ -5,5 +5,11 @@ I am documenting my progress in SQL and SQL injections so that I can pull from t
 - Data is stored for companies in databases on a server
 - SQL allows us to communicate to the server.
 - Works on tables essentially
+- Simple examples provided in proper use folder
 
 *sqlite online for examples
+
+# SQL Injection
+
+
+*practice done on metasploitable2
