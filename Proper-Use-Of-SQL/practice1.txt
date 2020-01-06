@@ -7,7 +7,7 @@ SELECT * FROM demo;
 INSERT INTO demo (id, name, hint) VALUES (18, "James", "Guitar");
 
 // Delete a value if it has the name james
-DELETE FROM demo WHERE name = "James"
+DELETE FROM demo WHERE name = "James";
 
 // Update a value 
-UPDATE demo SET id = 18 WHERE name = "Atil"
+UPDATE demo SET id = 18 WHERE name = "Atil";
