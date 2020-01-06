@@ -4,3 +4,6 @@ I am documenting my progress in SQL and SQL injections so that I can pull from t
 # What is SQL?
 - Data is stored for companies in databases on a server
 - SQL allows us to communicate to the server.
+- Works on tables essentially
+
+*sqlite online for examples
