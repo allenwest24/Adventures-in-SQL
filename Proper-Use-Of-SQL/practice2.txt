@@ -1,0 +1,2 @@
+// More examples
+SELECT * FROM demo WHERE id = 1;
