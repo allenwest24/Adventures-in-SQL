@@ -1,0 +1,8 @@
+# How to get data without knowing password
+Copy url if you see parameters
+right after the username is listed in the url type '# then copy and paste into the search
+
+# Hashmarks don't work int html so we have to use the html version wihich is 
+%23
+
+# Try with the admin username
